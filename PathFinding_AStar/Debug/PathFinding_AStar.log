@@ -1,0 +1,3 @@
+﻿  aStar.cpp
+C:\Users\njohn\Desktop\New folder\PathFinding_AStar\aStar.cpp(100,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PathFinding_AStar.vcxproj -> C:\Users\njohn\Desktop\New folder\PathFinding_AStar\Debug\PathFinding_AStar.exe

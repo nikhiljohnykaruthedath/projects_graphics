@@ -1,0 +1,3 @@
+﻿  perlinNoiseApproximation.cpp
+C:\Users\njohn\Desktop\New folder\PerlinNoiseApproximation\perlinNoiseApproximation.cpp(91,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  PerlinNoiseApproximation.vcxproj -> C:\Users\njohn\Desktop\New folder\PerlinNoiseApproximation\Debug\PerlinNoiseApproximation.exe
